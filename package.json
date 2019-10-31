@@ -1,0 +1,25 @@
+{
+  "name": "tdd-in-javascript",
+  "version": "1.0.0",
+  "description": "Learning Test-Driven Development in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesteralfreddohnani/tdd-in-javascript.git"
+  },
+  "author": "ALFRED DOH-NANI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesteralfreddohnani/tdd-in-javascript/issues"
+  },
+  "homepage": "https://github.com/mesteralfreddohnani/tdd-in-javascript#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
